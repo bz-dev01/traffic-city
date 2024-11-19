@@ -1,8 +1,2 @@
-
-  --------
-  |      |
-   --||--
-     ||
-     || raffic City
-
-  Written by Ajay Bhaga 2024
+Traffic City
+- Written by Ajay Bhaga 2024
